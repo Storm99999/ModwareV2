@@ -5,7 +5,7 @@
 -- Items will be added to your locker, you can't use them ingame tho only the listed above work
 -- Delinquent gets swapped with Driplinquent or Delinquent with Drip (whatever you wanna call it)
 -- MUST BE INGAME WITH DELINQUENT EQUIPPED!!!!
--- For full source code of modware, boost our server, discord.gg/modware
+-- For coolness boost our server, discord.gg/modware
 -- you'll be able to change:
 --  -basically everything lmfao
 --  -Name Protection, level
